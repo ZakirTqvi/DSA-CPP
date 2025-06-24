@@ -1,4 +1,3 @@
-# C++ DSA Practice
 
 # C++ DSA Practice 🚀
 
