@@ -80,9 +80,8 @@ int main() {
 
 ---
 
-Here's a clean, **GitHub README.md**-ready version of notes just for **Function in Memory** and **Pass by Value**:
 
-```markdown
+
 ## 📌 Function in Memory (C++)
 
 - When a function is **declared and defined**, it occupies a **specific memory location** in the program's **code segment**.
@@ -96,11 +95,11 @@ Here's a clean, **GitHub README.md**-ready version of notes just for **Function 
 - After function execution, the **stack frame is destroyed**, and control returns to the calling function.
 
 ### 📌 Visual Summary:
-```
+
 
 \[Main Function] → \[Calls Function] → \[Function executes in stack memory] → \[Returns back]
 
-````
+
 
 ---
 
