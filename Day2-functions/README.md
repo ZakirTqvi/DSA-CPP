@@ -147,11 +147,7 @@ In main function: 5
 ✔️ Functions use **stack memory** during execution.
 ✔️ By default, C++ uses **pass by value**, meaning changes inside a function do not affect the original data.
 
-```
 
----
-
-```
 
 
 
