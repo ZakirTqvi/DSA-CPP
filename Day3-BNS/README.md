@@ -50,6 +50,36 @@ Each position in a binary number represents a power of 2.
 
 ---
 
+## ✅ 2's Complement
+
+**2's Complement** is a method to represent **negative numbers** in the binary number system. It simplifies binary arithmetic like addition and subtraction.
+
+---
+
+### ✅ Why Use 2's Complement?
+- Efficient way to represent both **positive** and **negative numbers**.
+- Simplifies **subtraction** using **addition logic**.
+- **Single representation of zero** (unlike sign-magnitude where there are `+0` and `-0`).
+
+---
+
+### ✅ How to Find 2's Complement:
+1. Write the **binary representation** of the number (ignore the sign).
+2. Find the **1's complement** (invert all bits: `0` to `1` and `1` to `0`).
+3. **Add 1** to the result of 1's complement.
+
+---
+
+### ✅ Example: Find 2's Complement of -5 (8-bit)
+
+Step 1: Binary of `5` = `00000101`  
+Step 2: 1's Complement = `11111010`  
+Step 3: Add 1 → `11111010 + 1 = 11111011`  
+
+✅ So, **-5 = 11111011 (2's complement in 8-bit)**
+
+---
+
 ## 🚀 Purpose of This Repository
 
 This repository is for educational purposes, to build a strong foundation in **Number Systems**, focusing on **Binary Number System**.
