@@ -1,7 +1,3 @@
-Got it — you want a **concise but clear** `README.md`-style note summarizing **bitwise operators in C++**.
-Here’s a Markdown version you can directly paste into your `readme.md`:
-
-````markdown
 # Bitwise Operators in C++
 
 Bitwise operators perform operations on the binary representation of integers.  
