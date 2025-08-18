@@ -2,9 +2,9 @@
 
 ### Topics
 
--Vector
--It's Syntac
--Important Functions
--Static and Dynamic Allocation
+- Vector
+- It's Syntac
+- Important Functions
+- Static and Dynamic Allocation
 
 ---
