@@ -9,7 +9,7 @@
 
 ---
 
-### Majorirt Element 
+### Problem: Majority Element 
 
 #### Using Moore's Algorithm
 
