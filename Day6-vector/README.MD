@@ -13,7 +13,7 @@
 
 #### Using Moore's Algorithm
 
-cpp ```
+```cpp
 
 freq = 0, anw = 0
 for(int i = 0; i < n; i++){
