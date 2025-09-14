@@ -15,7 +15,7 @@
 
 ```cpp
 
-freq = 0, anw = 0
+freq = 0, ans = 0
 for(int i = 0; i < n; i++){
     if(freq == ans){
         ans = nums[i]
